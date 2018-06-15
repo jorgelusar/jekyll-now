@@ -5,7 +5,9 @@ date: 2013-03-05 10:29:46 +0000
 comments: true
 categories: [sitecore,nunit]
 ---
-## A web-based nunit test runner for Sitecore CMS
+A web-based nunit test runner for Sitecore CMS
+
+This test runner will allow you to run all nunit test on a test suite, but also filter by category, text fixture and run individual tests. It will also generate a TestResult.xml file based on the Nunit test result.
 
 ### Why
 
