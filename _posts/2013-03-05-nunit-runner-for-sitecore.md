@@ -5,7 +5,7 @@ date: 2013-03-05 10:29:46 +0000
 comments: true
 categories: [sitecore,nunit]
 ---
-A web-based nunit test runner for Sitecore CMS
+A web-based nunit test runner for Sitecore CMS.
 
 ### Why
 
