@@ -6,7 +6,7 @@ comments: true
 categories: [sitecore,security]
 ---
 
-## Add automated test on your CI to test how secure your Sitecore server
+Add automated test on your CI to test how secure your Sitecore server
 
 This are some test cases you can run as part of your integration tests on your CI 
 
