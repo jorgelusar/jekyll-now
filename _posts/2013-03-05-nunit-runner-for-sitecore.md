@@ -7,8 +7,6 @@ categories: [sitecore,nunit]
 ---
 A web-based nunit test runner for Sitecore CMS
 
-This test runner will allow you to run all nunit test on a test suite, but also filter by category, text fixture and run individual tests. It will also generate a TestResult.xml file based on the Nunit test result.
-
 ### Why
 
 One of the techniques used for testing Sitecore is using embedded test runner. You can find more information in [this book][1] and some videos from [codeflood][2].
