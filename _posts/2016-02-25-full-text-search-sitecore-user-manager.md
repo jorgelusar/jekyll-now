@@ -6,7 +6,7 @@ comments: true
 categories: [sitecore,lucene]
 ---
 
-##How to be able to search by name, email and comments in the Sitecore User Manager
+How to be able to search by name, email and comments in the Sitecore User Manager
 
 After googling on how to enhance the Sitecore User Manager, I bumped into [Teach User Manager how to search by email][1] and [Search by Email in the Sitecore User Manager][2]. However, that's not good enough for me because you need to do exact match on the email address.
 
