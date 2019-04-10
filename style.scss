@@ -294,11 +294,11 @@ table td, table th {
 }
 
 table tr:nth-child(even) {
-	background-color: #f2f2f2;
+  background-color: #f2f2f2;
 }
 
 table tr:hover {
-	background-color: #ddd;
+  background-color: #ddd;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
